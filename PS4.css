@@ -1,0 +1,32 @@
+#navbar{
+     background-color: black;
+     height: 60px;
+}
+a{
+    text-decoration: none;
+    color: white;  
+    margin-right: 100px; 
+}
+button{
+    background-color: orange;
+    color: white;
+}
+
+#idd{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    display: inline-block;
+}
+#content{
+    height: 200px;
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+*{
+    padding: 0px;
+    margin:0px
+}
